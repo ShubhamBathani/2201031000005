@@ -11,8 +11,8 @@
   top: calc(50% + 44.5px);
   height: 55px;
 }
-.f-389306425-zasieurl3pnvnc3gpo-icon18,
-.f-389306425-zasieurl3pnvnc3gpo-icon19 {
+.sup-logo-icon18,
+.sup-logo-icon19 {
   position: absolute;
   top: calc(50% - 99.5px);
   left: calc(50% - 662.5px);
@@ -21,7 +21,7 @@
   object-fit: cover;
   mix-blend-mode: linear-burn;
 }
-.f-389306425-zasieurl3pnvnc3gpo-icon19 {
+.sup-logo-icon19 {
   left: calc(50% + 503.5px);
 }
 .mindful9 {
@@ -256,7 +256,7 @@
   font-size: var(--font-size-17xl);
   font-family: var(--font-lato);
 }
-.macbook-air-10 {
+.sup-10 {
   width: 100%;
   position: relative;
   background-color: var(--color-white);

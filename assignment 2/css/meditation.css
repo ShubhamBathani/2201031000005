@@ -7,7 +7,7 @@
     object-fit: cover;
     display: none;
   }
-  .pngtree-golden-buddha-statue-a-icon {
+  .buddha-statue-icon {
     position: absolute;
     top: 486px;
     left: 185px;
@@ -29,8 +29,8 @@
     top: calc(50% + 44.5px);
     height: 55px;
   }
-  .f-389306425-zasieurl3pnvnc3gpo-icon6,
-  .f-389306425-zasieurl3pnvnc3gpo-icon7 {
+  .md-logo-icon6,
+  .md-logo-icon7 {
     position: absolute;
     top: calc(50% - 99.5px);
     left: calc(50% - 662.5px);
@@ -39,7 +39,7 @@
     object-fit: cover;
     mix-blend-mode: linear-burn;
   }
-  .f-389306425-zasieurl3pnvnc3gpo-icon7 {
+  .md-logo-icon7 {
     left: calc(50% + 503.5px);
   }
   .mindful3 {
@@ -95,8 +95,8 @@
     height: 199px;
     font-family: var(--font-inika);
   }
-  .macbook-air-4-child,
-  .macbook-air-4-item {
+  .md-4-child,
+  .md-4-item {
     position: absolute;
     top: calc(50% - 217px);
     border-radius: var(--br-xl);
@@ -104,11 +104,11 @@
     height: 600px;
     opacity: 0.4;
   }
-  .macbook-air-4-child {
+  .md-4-child {
     left: 130px;
     width: 659px;
   }
-  .macbook-air-4-item {
+  .md-4-item {
     right: 150px;
     width: 565px;
   }
@@ -127,7 +127,7 @@
     left: 702px;
     width: 557px;
   }
-  .meditation-isnt-about {
+  .md-defination {
     position: absolute;
     top: 274px;
     left: 170px;
@@ -142,7 +142,7 @@
   .blank-line {
     margin: 0;
   }
-  .take-seat-find {
+  .md-steps {
     margin: 0;
     white-space: pre-line;
   }
@@ -157,15 +157,15 @@
     width: 557px;
     height: 516px;
   }
-  .macbook-air-4-inner {
+  .md-4-inner {
     position: absolute;
     top: 340px;
     left: 850px;
     width: 23px;
     height: 26px;
   }
-  .macbook-air-4-child1,
-  .macbook-air-4-child2,
+  .md-4-child1,
+  .md-4-child2,
   .star-icon {
     position: absolute;
     top: 420px;
@@ -173,18 +173,18 @@
     width: 23px;
     height: 26px;
   }
-  .macbook-air-4-child1,
-  .macbook-air-4-child2 {
+  .md-4-child1,
+  .md-4-child2 {
     top: 472px;
     left: 850px;
   }
-  .macbook-air-4-child2 {
+  .md-4-child2 {
     top: 525px;
     left: 850px;
   }
-  .macbook-air-4-child3,
-  .macbook-air-4-child4,
-  .macbook-air-4-child5 {
+  .md-4-child4,
+  .md-4-child3,
+  .md-4-child5 {
     position: absolute;
     top: 580px;
     left: 850px;
@@ -192,15 +192,15 @@
     height: 26px;
   }
 
-  .macbook-air-4-child4 {
+  .md-4-child4 {
     top: 635px;
     left: 850px;
   }
-  .macbook-air-4-child5 {
+  .md-4-child5 {
     top: 690px;
     left: 850px;
   }
-  .macbook-air-4 {
+  .meditation-4 {
     width: 100%;
     position: relative;
     background-color: var(--color-white);

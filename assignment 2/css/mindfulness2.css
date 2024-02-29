@@ -1,4 +1,4 @@
-.f-466503764-rl3kvkhsuayom2ni0o-icon {
+.mf2-photo-icon {
   position: absolute;
   top: calc(50% - 238px);
   left: calc(50% - 642px);
@@ -6,8 +6,8 @@
   height: 330px;
   object-fit: cover;
 }
-.macbook-air-7-child,
-.macbook-air-7-item {
+.mf2-7-child,
+.mf2-7-item {
   position: absolute;
   border-radius: var(--br-xl);
   background-color: var(--color-gainsboro);
@@ -18,7 +18,7 @@
   width: 1258px;
   height: 286px;
 }
-.macbook-air-7-item {
+.mf2-7-item {
   bottom: 36px;
   left: calc(50% - 640px);
   width: 1269px;
@@ -37,8 +37,8 @@
   top: calc(50% + 44.5px);
   height: 55px;
 }
-.f-389306425-zasieurl3pnvnc3gpo-icon,
-.f-389306425-zasieurl3pnvnc3gpo-icon1 {
+.mf2-logo-icon,
+.mf2-logo-icon1 {
   position: absolute;
   top: calc(50% - 99.5px);
   left: calc(50% - 662.5px);
@@ -47,7 +47,7 @@
   object-fit: cover;
   mix-blend-mode: linear-burn;
 }
-.f-389306425-zasieurl3pnvnc3gpo-icon1 {
+.mf2-logo-icon1 {
   left: calc(50% + 503.5px);
 }
 .mindful {
@@ -118,7 +118,7 @@
   height: 50px;
   text-shadow: 1px 0 0#000, 0 1px 0#000, -1px 0 0#000, 0-1px 0#000;
 }
-.macbook-air-7-inner,
+.mf2-7-inner,
 .rectangle-div {
   position: absolute;
   border-radius: var(--br-13xl);
@@ -126,7 +126,7 @@
   width: 565px;
   height: 217px;
 }
-.macbook-air-7-inner {
+.mf2-7-inner {
   bottom: 41px;
   left: 52px;
 }
@@ -135,8 +135,8 @@
   bottom: 36px;
 }
 .ellipse-div,
-.macbook-air-7-child1,
-.macbook-air-7-child2 {
+.mf2-7-child1,
+.mf2-7-child2 {
   position: absolute;
   top: 614px;
   left: 128px;
@@ -145,11 +145,11 @@
   width: 15px;
   height: 15px;
 }
-.macbook-air-7-child1,
-.macbook-air-7-child2 {
+.mf2-7-child1,
+.mf2-7-child2 {
   top: 667px;
 }
-.macbook-air-7-child2 {
+.mf2-7-child2 {
   top: 720px;
 }
 .help-relieve-stress {
@@ -160,9 +160,9 @@
   width: 353px;
   height: 52px;
 }
-.macbook-air-7-child3,
-.macbook-air-7-child4,
-.macbook-air-7-child5 {
+.mf2-7-child3,
+.mf2-7-child4,
+.mf2-7-child5 {
   position: absolute;
   top: 613px;
   left: 712px;
@@ -171,11 +171,11 @@
   width: 15px;
   height: 15px;
 }
-.macbook-air-7-child4,
-.macbook-air-7-child5 {
+.mf2-7-child4,
+.mf2-7-child5 {
   top: 668px;
 }
-.macbook-air-7-child5 {
+.mf2-7-child5 {
   top: 720px;
 }
 .improve-sleep,
@@ -212,7 +212,7 @@
   top: 709px;
   width: 410px;
 }
-.macbook-air-7 {
+.mf2-7 {
   width: 100%;
   position: relative;
   background-color: var(--color-white);

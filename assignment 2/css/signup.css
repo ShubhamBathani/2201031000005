@@ -122,6 +122,7 @@
   position: absolute;
   height: 51.6px;
 }
+
 .group-child40 {
   top: calc(50% + 3.4px);
   right: 0;
@@ -129,6 +130,14 @@
   background-color: var(--color-white);
   box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
   width: 454px;
+}
+
+.username2{
+  position: absolute;
+  top: calc(50% - 55px);
+  right: 0;
+  width: 547px;
+  height: 110px;
 }
 .username3 {
   top: calc(50% - 55px);
